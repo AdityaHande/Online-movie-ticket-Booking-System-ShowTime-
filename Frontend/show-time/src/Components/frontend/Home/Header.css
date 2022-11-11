@@ -1,0 +1,10 @@
+.nava  a {
+  color: aqua;
+  text-decoration: none;
+  justify-content: space-evenly;
+ 
+ 
+}
+.nava a:hover{
+    color:rgb(251, 50, 50);
+}
