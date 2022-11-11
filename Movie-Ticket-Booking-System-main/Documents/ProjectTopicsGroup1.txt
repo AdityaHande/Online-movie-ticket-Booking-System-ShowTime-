@@ -1,0 +1,53 @@
+Project Group Number 1
+
+1. 220343020003 Abdulvahab Raheman Maner
+2. 220343020026 Sangram Shahaji Desai 
+3. 220343020033 Aditya Vishwas Hande
+4. 220343020114 Vyankatesh Prasad Nakate
+___________________________________________________________________________________________________________________
+List of projects:
+
+	1.Online Movie Booking System
+	2.Online Vehicle Services
+        3.Flight Ticket Booking System 
+___________________________________________________________________________________________________________________
+
+Project 1:
+
+Title:Online Movie Booking System
+
+Objective: 
+          The movie booking system has been override the problem in the practicing manual system.
+          The application is reduced the effort as much as posiible to avoid error while entering the data.
+ 	  The purpose of this project is to build an simple and user friendly approrch to book movie ticket.
+	  It tracks all the details about the customer payment and shows.
+___________________________________________________________________________________________________________________
+
+
+Project 2:
+
+Title:Online Vehicle Services
+
+Objective:
+          This project deals with a computerised,internet-based management system. 
+          The customer can login remotely and search for available services and booked a servicing. 
+          The admin can select servicing booked bycustomer and manage slots etc. 
+          There is a feedback system as well. 
+___________________________________________________________________________________________________________________
+
+Project 3:
+
+Title:Flight Ticket Booking System
+
+Objective: 
+         The purpose of flight booking system is to automate the existing system by the help of computerised
+	 equipment and recent upgraded technology.
+         The aim of this project is automate the existing system and fulfill their requirements in better way.
+
+
+___________________________________________________________________________________________________________________
+
+
+
+
+
